@@ -1,0 +1,57 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 90px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+nav a{
+    font-weight: 600;
+    padding: 10px;
+}
+
+nav a:hover{
+    color: rgb(255, 0, 0);  
+}
+
+footer{
+    
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+div{
+    text-decoration: none;
+    color: black;
+}
+
+
+div h4 .a{
+    margin: 50px 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a:hover{
+    color: red;
+}
+
+
+
+footer a:hover{
+    color: red;
+}
+
